@@ -94,7 +94,7 @@ export function PortalShell({
         <div className="h-16 flex items-center px-5 border-b border-sidebar-border">
           <Link to="/" className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg gradient-primary flex items-center justify-center text-primary-foreground font-bold text-sm">N</div>
-            <span className="font-semibold tracking-tight">Nexus<span className="text-primary">CRM</span></span>
+            <span className="font-semibold tracking-tight">Billion <span className="text-primary">Tags</span></span>
           </Link>
         </div>
         <nav className="flex-1 px-3 py-4 space-y-0.5">
