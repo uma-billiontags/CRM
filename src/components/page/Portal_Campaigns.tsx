@@ -4,9 +4,9 @@ import { Plus, Save, ChevronDown, Pencil, Loader2, AlertCircle, RefreshCw, Eye }
 
 // ── API URLs ──────────────────────────────────────────────────────────────────
 
-const ADD_URL = "https://onboard-form-9.onrender.com/add_campaign/";
-const EDIT_URL = "https://onboard-form-9.onrender.com/update_campaign/";
-const GET_URL = "https://onboard-form-9.onrender.com/campaign_list/";
+const ADD_URL = "https://onboard-form-10.onrender.com/add_campaign/";
+const EDIT_URL = "https://onboard-form-10.onrender.com/update_campaign/";
+const GET_URL = "https://onboard-form-10.onrender.com/campaign_list/";
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 

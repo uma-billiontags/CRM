@@ -44,7 +44,7 @@ interface CompanyForm {
   is_active: boolean;
 }
 
-const SUBMIT_URL = "https://onboard-form-7.onrender.com/add_client/";
+const SUBMIT_URL = "https://onboard-form-10.onrender.com/add_client/";
 
 const COUNTRIES = ["India", "USA", "UK", "Chinese"];
 const PAYMENT_TYPES = ["Prepaid", "Postpaid"];
